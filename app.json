@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/index",
+    "pages/run/run",
+    "pages/logs/logs",
+    "pages/animation/animation",
+    "pages/pages2/index",
+	"pages/pages3/index",
+	 "pages/pages3/item",
+   "pages/my_eyesight/my_eyesight"
+  ],
+  "window": {
+    "navigationBarTitleText": "大富翁",
+    "navigationBarBackgroundColor": "#40E0D0",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle2": "light"
+  }
+}

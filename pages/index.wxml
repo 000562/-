@@ -1,0 +1,27 @@
+
+
+
+<view style="background-image:url('https://123zhou.oss-cn-beijing.aliyuncs.com/15212488453818784.jpg');background-size:100% 100%;" class="mainView">
+    <!--标题-->
+
+    <view class="header">
+        <image class="icon" src="/resources/t016340f35e2d18e5b4.jpg" mode="aspectFill"/>
+        <view class="bigTitle">running-冲鸭</view>
+        <view class="desc">Let us run - 北邮人</view>
+    </view>
+    
+    
+    
+    
+    <view class="body">
+        <view class="widget">
+            <block wx:for="{{pageNames}}">
+                <view class="widgets__item">
+                    <navigator url="{{item.id}}/{{item.id}}">{{item.name}}</navigator>
+                </view>
+            </block>
+        </view>
+    </view>
+
+</view>
+    

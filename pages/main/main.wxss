@@ -1,0 +1,45 @@
+/* pages/main/main.wxss */
+/** 修改button默认的点击态样式类**/
+.container1{
+    display: flew;
+    flex-direction:column;
+    align-items: center;
+    }
+.btn1{
+  width: 300rpx; 
+  height:100rpx;
+  margin-top:300rpx;
+  color:#00CED1; 
+  float:left;
+}
+.btn2{
+  width: 300rpx;
+  height: 100rpx;
+  margin-top:300rpx;
+  color:#FF6347; 
+   float:right;
+}
+.btn3{
+  width: 300rpx;
+  height: 100rpx;
+  margin-top: 400rpx;
+  color:#2297f1; 
+   float:left;
+}
+.btn4{
+  width: 300rpx;
+  height: 100rpx;
+  margin-top: 400rpx;
+  color:chartreuse; 
+   float:right;
+}
+
+.background-image{
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left:0;
+  width:100%;
+  height:100%
+  }
+  

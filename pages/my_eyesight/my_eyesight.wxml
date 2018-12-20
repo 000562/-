@@ -1,0 +1,6 @@
+<!--pages/my_height/my_height.wxml-->
+<button class="btn5" bindtap="getDataFromOneNet">
+我距桌面的距离为：</button>
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<view class="height">{{height}}cm</view>

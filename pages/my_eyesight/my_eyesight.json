@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#90EE90",
+  "navigationBarTitleText": "距离测量仪",
+  "navigationBarTextStyle": "black"
+  }

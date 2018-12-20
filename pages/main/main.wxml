@@ -1,0 +1,13 @@
+<view style="background-image:url('https://123zhou.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181130200015.jpg');background-size:100% 100%;" class="background-image">
+</view>
+<view class="container1">
+<button class='btn1'bindtap='navigate1'>running</button> 
+<button class='btn2'bindtap='navigate2'>to do list</button>  
+<button class='btn3'bindtap='navigate3'>money</button> 
+<button class='btn4'bindtap='getDataFromOneNet'>eyesight</button> 
+</view>
+
+ 
+
+        
+        
